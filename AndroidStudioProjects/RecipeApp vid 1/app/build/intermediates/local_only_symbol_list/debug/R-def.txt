@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color orange
+color purple_200
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_likes
+drawable ic_servings
+drawable ic_time
+id imageView_food
+id random_list_container
+id recycler_random
+id textView_likes
+id textView_servings
+id textView_time
+id textView_title
+layout activity_main
+layout list_random_recipe
+mipmap ic_launcher
+mipmap ic_launcher_round
+string api_key
+string app_name
+style Base.Theme.RecipeApp
+style Theme.RecipeApp
+xml backup_rules
+xml data_extraction_rules
